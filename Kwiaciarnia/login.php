@@ -46,10 +46,10 @@
                             </div>
                             <div class="panel-footer">Don't have an account yet? <a href="signup.php">Register</a></div>
                         </div>
-                    </div>
+                    </div> 
                 </div>
            </div>
-           <br><br><br><br><br>
+           <br><br><br>
 <footer class="footer"> 
                <div class="container">
                <center>

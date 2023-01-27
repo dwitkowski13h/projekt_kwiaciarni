@@ -36,5 +36,5 @@
         $_SESSION['id']=$row['id'];  //user id
         header('location: products.php');
     }
-    
+     
  ?>

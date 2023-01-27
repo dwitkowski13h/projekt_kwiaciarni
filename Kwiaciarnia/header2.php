@@ -15,6 +15,6 @@
                            <li><a href="settings.php"><span class="glyphicon glyphicon-cog"></span> Settings</a></li>
                            <li><a href="logout.php"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
                        </ul>
-                   </div>
+                   </div> 
                </div>
 </nav>

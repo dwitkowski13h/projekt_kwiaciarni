@@ -45,7 +45,7 @@
             </div>
 <footer class="footer"> 
                <div class="container">
-               <center>
+               <center> 
                    <p>&copy Dawid Witkowski</p>
                </center>
                </div>

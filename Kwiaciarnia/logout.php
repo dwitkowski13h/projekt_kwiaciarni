@@ -33,7 +33,7 @@
                                 <p>You have been logged out. <a href="login.php">Login again.</a></p>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                 </div>
             </div>
 <footer class="footer"> 

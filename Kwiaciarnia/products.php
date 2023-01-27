@@ -27,7 +27,7 @@
                     <h1>Potted Plants</h1>
                 </div>
             </div>
-            <div class="container">
+            <div class="container"> 
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="thumbnail">
@@ -142,7 +142,7 @@
                 </div>
 
             </div>
-            <br><br><br><br><br><br><br><br>
+            <br><br><br>
            <footer class="footer">
                <div class="container">
                <center>

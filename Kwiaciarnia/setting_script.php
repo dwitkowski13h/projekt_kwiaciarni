@@ -26,6 +26,5 @@
         </script>
         <meta http-equiv="refresh" content="1;url=settings.php" />
         <?php
-        //header('location:settings.php');
     }
 ?>

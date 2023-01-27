@@ -84,5 +84,5 @@ session_start();
                </div>
            </footer>
         </div>
-    </body>
+    </body> 
 </html>
