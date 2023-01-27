@@ -79,7 +79,7 @@ session_start();
            <footer class="footer"> 
                <div class="container">
                <center>
-                   <p>&copy Dawid Witkowski, Karolina Krajewska </p>
+                   <p>&copy Dawid Witkowski</p>
                </center>
                </div>
            </footer>
