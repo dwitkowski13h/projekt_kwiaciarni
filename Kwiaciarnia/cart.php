@@ -57,12 +57,12 @@
                            
                          ?>
                         <tr>
-                            <th><?php echo $counter ?></th><th><?php echo $row['name']?></th><th><?php echo $row['price']?></th>
+                            <th><?php echo $counter ?></th><th><?php echo $row['name']?></th><th><?php echo $row['price']?> PLN</th>
                             <th><a href='cart_remove.php?id=<?php echo $row['id'] ?>'>Remove</a></th>
                         </tr>
                        <?php $counter=$counter+1;}?>
                         <tr>
-                            <th></th><th>Total</th><th>Rs <?php echo $sum;?>/-</th><th><a href="success.php?id=<?php echo $user_id?>" class="btn btn-primary">Confirm Order</a></th>
+                            <th></th><th>Total</th><th><?php echo $sum;?> PLN</th><th><a href="success.php?id=<?php echo $user_id?>" class="btn btn-primary">Confirm Order</a></th>
                         </tr>
                     </tbody>
                 </table>
